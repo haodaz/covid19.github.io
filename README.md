@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到全球留学生疫情互助与实时数据中心编辑页面
 
 You can use the [editor on GitHub](https://github.com/haodaz/covid19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
